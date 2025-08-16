@@ -56,7 +56,7 @@ main p {
 }
 
 /* Image Styling */
-.portimg {
+.portimg .about-card img{
     width: 250px;
     height: auto;
     border-radius: 12px;
